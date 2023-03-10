@@ -6,6 +6,21 @@ The type of errors are as follows:<br>
 - Scripting Errors.<br>
 - Slow Loading Speed<br>
 
+<h2>How to run program</h2>
+1. Fork the repo and do not forget to give a start 
+<img width="960" alt="forking repo" src="https://www.freecodecamp.org/news/content/images/2022/02/image-29.png">
+
+2. Clone the repo 
+```
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```
+
+3. Change dir accourding to your local user 
+```
+cd C:\................
+```
+Note - Make sure you have active internet in your PC
+
 <h2>When will the Contest Start?</h2>
 The contest starts at 5 PM IST 10th of March 2023 and ends at 5 PM IST 12th of March 2023. 
 
