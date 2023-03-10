@@ -1,4 +1,4 @@
-<h1>ProGeeks Learn & Earn Contest (PLEC) Webpage Optimization Contest Info & Rules</h1>
+<h1>ProGeeks Learn & Earn Contest (PLEC) Webpage Optimization Contest </h1>
 <h2>What do we have to do?</h2>
 We will provide you with a webpage and scripts with multiple errors, and you must correct and optimize it according to the document we will provide. 
 The type of errors are as follows:<br>
