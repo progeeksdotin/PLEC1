@@ -51,8 +51,8 @@ The prizes are as follows:
 Note: Everyone will receive a participation certificate. 
 
 <h2>Rules</h2>
- - On the 10th of March at 10 AM IST, we will share a zip file that will have the files.<br>
- - Unzip it and extract the files on your PC/Laptop.<br>
+ - On the 10th of March at 5PM IST, we will share a github repo will have all codebase.<br>
+ - Fork it and change directory files on your PC/Laptop.<br>
  - The zipped folder will have a document about what the webpage should be like. <br>
- - You have to optimize the files according to the document and submit them as zipped files in the submission form.<br>
+ - You have to optimize the files according to the document and push directoly to the repo by your name as a branch name<br>
 
